@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Manmeet 👋
 
-<!--
-**manmeet113/manmeet113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently pursuing my Master's in Pharmaceutical Sciences at **Gujrat University**.
 
-Here are some ideas to get you started:
+### About Me:
+- 🌱 I’m currently learning more about pharmaceutical sciences and research.
+- 🎓 Master's student at Gujrat University.
+- 💡 Passionate about advancing healthcare through scientific innovation.
+- 🔭 Interested in exploring pharmaceutical development, research, and technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+- 📫 How to reach me: [Email](mailto:your-email@example.com) (replace with your email if you want to share)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/your-profile) (replace with your LinkedIn profile link)
+- 🧑‍💻 GitHub: [github.com/your-username](https://github.com/your-username) (replace with your GitHub username)
+
+---
+
+Thank you for visiting my profile! 😄
